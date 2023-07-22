@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                 CircleAvatar(
                   maxRadius: 15.0,
                   backgroundImage: NetworkImage(
-                    "https://scontent.fbhr1-1.fna.fbcdn.net/v/t1.0-9/p720x720/120810541_181736033584549_6248022580662039992_o.jpg?_nc_cat=102&ccb=2&_nc_sid=e3f864&_nc_ohc=ewH9vchbV6wAX-0CnIT&_nc_ht=scontent.fbhr1-1.fna&tp=6&oh=688264556173861c0c19ea1a1c4fb6af&oe=60184EE7",
+                    "https://static.thenounproject.com/png/4035892-200.png",
                   ),
                 ),
                 SizedBox(width: 10),
